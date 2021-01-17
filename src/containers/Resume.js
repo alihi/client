@@ -207,7 +207,7 @@ const Resume = () => {
                             xs={12}
                             container>
                             <TableGrid name="Deutsch" value="Fliessend"/>
-                            <TableGrid name="Mundart" value="Fliessend"/>
+                            <TableGrid name="Schweizerdeutsch" value="Fliessend"/>
                             <TableGrid name="Englisch" value="Sehr gut"/>
                             <TableGrid name="Arabisch" value="Muttersprache"/>
                         </Grid>
